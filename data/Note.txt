@@ -1,0 +1,4 @@
+2.17.2011:
+I have updated these files to reflect the following properties:
+30 nucleotides per read
+Average of 60x coverage
